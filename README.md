@@ -1,8 +1,8 @@
 <p align="center"><img src="images/devops_exercises.png"/></p>
 
-:information_source: &nbsp;This repo contains questions and exercises on various technical topics, sometimes related to DevOps and SRE
+:information_source: &nbsp;这个仓库包含各种类型技术主题的问题、练习，有些主要跟`DevOps`跟`SRE`相关
 
-:bar_chart: &nbsp;There are currently **2371** exercises and questions
+:bar_chart: &nbsp;目前有**2371**个练习和问题
 
 :books: &nbsp;To learn more about DevOps and SRE, check the resources in [devops-resources](https://github.com/bregman-arie/devops-resources) repository
 
